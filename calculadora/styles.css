@@ -45,3 +45,7 @@ button:hover {
 button.zero {
     grid-column: span 3;
 }
+button.ativo {
+    background-color: #666;
+    color: #000;
+}
